@@ -1,2 +1,2 @@
 # DiceRoller
-Aula do dia 03/04/24
+Correção de Atividade DiceRoller da aula de Programação de Aplicativos Mobile (17/04/2023)
